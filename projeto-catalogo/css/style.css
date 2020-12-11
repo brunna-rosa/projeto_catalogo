@@ -256,6 +256,7 @@ section.resultado {
 }
 
 .resultado-list{
+  margin-top: 20px;
   position: relative;
   width: 25%;
   display: block;
